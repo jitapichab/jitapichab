@@ -24,8 +24,8 @@
   - <span style="font-size: 18px;">✈️</span> Work from anywhere is my therapy. 
   - 🎵 I dance technho to recharge energy.
   - 💬 Enjoy have deeper conversations.
-  - 💭 Thinking about deprecated Kube-proxy in productions kubernetes clusters and migrate to Cilium.
-  - 🤝 I'm looking to contribute in chaos engineerings projects and CNCF projects.
+  - 💭 Thinking about deprecating Kube-proxy in production Kubernetes clusters and migrating to Cilium.
+  - 🤝 I'm looking to contribute in CNCF projects.
   - 👻 I recently created a GitHub organization called [friki.io](https://github.com/orgs/friki-io) for fun and to collaborate on useful projects. https://friki.io
 </p>
 

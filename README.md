@@ -1,11 +1,11 @@
 <h1 align="center"><b>Hi , I'm TAPI </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center"></h3>
 
-<div style="text-align:center;">
+<div align="center">
   <img 
     src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZjMHExejRlM285YjBybmJ3aWJycXFiZTc1ZW1ta2lwcm45b2p6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif" 
     alt="GIF" 
-    style="display:block; margin: 0 auto; height:200px; width:300px;"
+    style="height: 250px; width: 360px;"
   >
 </div>
 
@@ -22,7 +22,11 @@
   - 👻 I recently created a GitHub organization called [friki.io](https://github.com/orgs/friki-io) for fun and to collaborate on useful projects. https://friki.io
 </p>
 
+<div align="center">
+
 [![Tapi GitHub stats](https://github-readme-stats.vercel.app/api?username=jitapichab)](https://github.com/jitapichab/github-readme-stats)
+
+</div>
 
 ## Mediums
 

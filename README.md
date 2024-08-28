@@ -1,11 +1,4 @@
-<h1 align="center">Hi there, I'm 
-    <span style="letter-spacing: -1px;">
-        <span style="color: #FFD700;">T</span>
-        <span style="color: #0033A0;">a</span> 
-        <span style="color: #CE1126;">p</span> 
-        <span style="color: #000000;">i</span> 
-    </span>
-</h1>
+<h1 align="center"><b>Hi , I'm TAPI </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center"></h3>
 
 <div style="text-align:center;">

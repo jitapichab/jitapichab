@@ -34,6 +34,7 @@
 ## Mediums
 
 - [How to integrate Apache Nifi with Kafka.](https://medium.com/@jitapichab/apache-nifi-integrate-kafka-to-consume-and-produce-387968b8bd6b)
+- [Kafka chaos experiments using chaostoolkit-kafka.](https://medium.com/@jitapichab/kafka-chaos-experiments-using-chaostoolkit-kafka-32484244ae1c)
 
 ## YouTube Videos
 
